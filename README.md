@@ -1,2 +1,3 @@
 # Learning
-learning git use 
+
+learning how to use git through youtube videos
